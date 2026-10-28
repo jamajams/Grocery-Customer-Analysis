@@ -1,0 +1,5 @@
+Q1) How many households, stores, baskets and products are there?
+Answer: Households: 2,469
+	Stores: 457
+	Baskets: 155,848
+	Products: 68,509
