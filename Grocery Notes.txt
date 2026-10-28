@@ -3,3 +3,30 @@ Answer: Households: 2,469
 	Stores: 457
 	Baskets: 155,848
 	Products: 68,509
+
+Q2) What date range does the data cover? Anything odd at either end?
+Answer: The date range is from 1st January 2017 to 1st January 2018.
+Findings: 
+	- The shopping time on the most recent date could be seen as slightly strange since it's 4am in the morning however, some supermarkets could be open 24-hours which can allow for this. 
+	-However, the project brief says that we've been given the data from only 2017 yet there is a timestamp from 2018. This could also come from the fact that the timestamps are without time zone. When taking this into account, the 4am transaction could still sit in 2017.
+
+Q3) What are the top 10 departments by total spend?
+Answer: 1) GROCERY
+	2) DRUM GM
+	3) FUEL
+	4) PRODUCE
+	5) MEAL
+	6) MEAT-PACKAGED
+	7) DELI
+	8) MISCELLANEOUS
+	9) PASTRY
+	10) NURITION
+
+Findings: 
+	- Grocery could be the highest as it could contain the widest range of items shoppers will purchase day-to-day such as sugar, rice, pasta etc. This could be a department that is too broad for us to properly analyse how different customers shop.
+
+Q4) What share of spend goes on `National` vs `Private` (own-label) brands?
+	- Share of spend for 'National' brands: 71.74%
+	- Share of spend for 'Private' brands: 28.26%
+
+
