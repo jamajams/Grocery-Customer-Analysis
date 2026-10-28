@@ -8,14 +8,14 @@ Q2) What date range does the data cover? Anything odd at either end?
 Answer: The date range is from 1st January 2017 to 1st January 2018.
 Findings: 
 	- The shopping time on the most recent date could be seen as slightly strange since it's 4am in the morning however, some supermarkets could be open 24-hours which can allow for this. 
-	-However, the project brief says that we've been given the data from only 2017 yet there is a timestamp from 2018. This could also come from the fact that the timestamps are without time zone. When taking this into account, the 4am transaction could still sit in 2017.
+	- However, the project brief says that we've been given the data from only 2017 yet there is a timestamp from 2018. This could also come from the fact that the timestamps are without time zone. When taking this into account, the 4am transaction could still sit in 2017.
 
 Q3) What are the top 10 departments by total spend?
 Answer: 1) GROCERY
-	2) DRUM GM
+	2) DRUG GM
 	3) FUEL
 	4) PRODUCE
-	5) MEAL
+	5) MEAT
 	6) MEAT-PACKAGED
 	7) DELI
 	8) MISCELLANEOUS
